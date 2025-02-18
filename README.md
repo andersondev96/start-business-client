@@ -97,11 +97,11 @@ Servidor Node
 
 ## ⚙ Deploy da aplicação
 A aplicação está disponível online no seguinte endereço:
-<a href="https://app.startbusinesshome.dev/">
-https://app.startbusinesshome.dev/
+
+[https://start-business-client.vercel.app/](https://start-business-client.vercel.app/)
 </a>
 
-O deploy da aplicação foi feito utilizando o <a href="https://netlify.com/">Netlify</a>.
+O deploy da aplicação foi feito utilizando o [Vercel](https://vercel.com/).
 
 ## 🤝 Como contribuir
 <ol>
