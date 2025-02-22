@@ -1,21 +1,22 @@
 # Trabalho de conclusão de curso (TCC)
 Projeto desenvolvido como parte trabalho de conclusão de curso (TCC) do curso de Sistemas de Informação - UFOP.
 
-![License shilds](https://img.shields.io/github/license/andersondev96/tcc-api)
-![Last commit shilds](https://img.shields.io/github/last-commit/andersondev96/tcc-api)
+![License shilds](https://img.shields.io/github/license/andersondev96/tcc-api?style=for-the-badge&color=green)
+![Last commit shilds](https://img.shields.io/github/last-commit/andersondev96/tcc-api?style=for-the-badge&color=green)
 
 <img src="./projeto.png" style="width: 600px;" />
 
-### ✨ **Indíce**
+### 📌 **Indíce**
 
-- [Sobre o projeto](#-sobre-o-projeto)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Layout da aplicação](#-layout-da-aplicação)
-- [Como executar a aplicação](#-como-executar-a-aplicação)
-- [Deploy da aplicação](#-deploy-da-aplicação)
-- [Como contribuir](#-como-contribuir)
-- [Licença](#-licença)
-- [Autor](#-autor)
+- [📄 Sobre o projeto](#-sobre-o-projeto)
+- [🧑‍💻 Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [🎨 Layout da aplicação](#-layout-da-aplicação)
+- [🚀 Funcionalidades](#-funcionalidades)
+- [⚙ Como executar a aplicação](#-como-executar-a-aplicação)
+- [🌍 Deploy da aplicação](#-deploy-da-aplicação)
+- [🤝 Como contribuir](#-como-contribuir)
+- [📝 Licença](#-licença)
+- [👥 Autor](#-autor)
 
 ## 📄 Sobre o projeto
 
@@ -43,8 +44,16 @@ Confira o design da aplicação no [Figma](https://www.figma.com/file/TTGQPpAVEU
 
 Para acessar, é necessário ter uma conta no Figma. [Crie aqui](https://www.figma.com/login).
 
+## 🚀 Funcionalidades
 
-## 🚀 Como executar a aplicação
+- Cadastro e autenticação de usuários
+- Listagem e pesquisa de serviços
+- Favoritar e avaliar serviços
+- Solicitação e gerenciamento de orçamentos
+- Sistema e chat para comunicação entre clientes e MEIs
+- Gerenciamento de perfil dos usuários
+
+## ⚙ Como executar a aplicação
 Antes de executar a aplicação, certifique que você tenha uma versão LTS do Node.js e npm instalados.
 
 Para executar a aplicação siga os seguintes passos:
@@ -75,7 +84,7 @@ Para executar a aplicação siga os seguintes passos:
 7. Lembrando que para que a aplicação esteja funcionando corretamente, o servidor node deve estar sendo executado, para isso é necessário clonar a aplicação node e seguir todas as instruções para a sua configuração. 
 A aplicação node está no seguinte repositório: [Servidor Node](https://github.com/andersondev96/start-business-api).
 
-## ⚙ Deploy da aplicação
+## 🌍 Deploy da aplicação
 A aplicação está disponível online no seguinte endereço:
 [https://start-business-client.vercel.app/](https://start-business-client.vercel.app/).
 
